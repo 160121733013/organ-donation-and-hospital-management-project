@@ -1,0 +1,1 @@
+SELECT * FROM `dbms_project`.`patient` LIMIT 1000;

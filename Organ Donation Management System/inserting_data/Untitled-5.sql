@@ -1,0 +1,1 @@
+SELECT * FROM `dbms_project`.`login` LIMIT 1000;
